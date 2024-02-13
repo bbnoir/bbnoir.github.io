@@ -6,8 +6,28 @@
     <description>Recent content on bbnoir&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copy, _right?_ :thinking_face:</copyright>
-    <lastBuildDate>Wed, 31 Jan 2024 23:42:39 +0800</lastBuildDate><atom:link href="https://bbnoir.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <lastBuildDate>Tue, 13 Feb 2024 00:54:13 +0800</lastBuildDate><atom:link href="https://bbnoir.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Third Post</title>
+      <link>https://bbnoir.github.io/posts/my-third-post/</link>
+      <pubDate>Tue, 13 Feb 2024 00:54:13 +0800</pubDate>
+      
+      <guid>https://bbnoir.github.io/posts/my-third-post/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>My Second Post</title>
+      <link>https://bbnoir.github.io/posts/my-second-post/</link>
+      <pubDate>Tue, 13 Feb 2024 00:54:04 +0800</pubDate>
+      
+      <guid>https://bbnoir.github.io/posts/my-second-post/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>My First Post</title>
       <link>https://bbnoir.github.io/posts/my-first-post/</link>

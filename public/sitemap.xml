@@ -4,18 +4,30 @@
 
   <url>
     <loc>https://bbnoir.github.io/</loc>
-    <lastmod>2024-01-31T23:42:39+08:00</lastmod>
+    <lastmod>2024-02-13T00:54:13+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://bbnoir.github.io/posts/my-first-post/</loc>
-    <lastmod>2024-01-31T23:42:39+08:00</lastmod>
+    <loc>https://bbnoir.github.io/posts/my-third-post/</loc>
+    <lastmod>2024-02-13T00:54:13+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://bbnoir.github.io/posts/</loc>
+    <lastmod>2024-02-13T00:54:13+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://bbnoir.github.io/posts/my-second-post/</loc>
+    <lastmod>2024-02-13T00:54:04+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://bbnoir.github.io/posts/my-first-post/</loc>
     <lastmod>2024-01-31T23:42:39+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
