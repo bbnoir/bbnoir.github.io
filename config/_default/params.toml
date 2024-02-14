@@ -11,7 +11,7 @@ enableCodeCopy = true
 disableImageOptimization = false
 disableTextInHeader = false
 
-defaultBackgroundImage = "img/featured.png"
+defaultBackgroundImage = "img/back.jpg"
 # defaultFeaturedImage = "img/featured.png"
 
 highlightCurrentMenuArea = true
