@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://bbnoir.github.io/sitemap.xml
