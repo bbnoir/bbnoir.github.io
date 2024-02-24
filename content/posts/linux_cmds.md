@@ -6,6 +6,10 @@ date = 2024-02-19T22:40:02+08:00
 
 # Commands
 
+use `man` to get more information about the command
+
+```bash
+
 ## usually used in cli
 
 | Commands | Intro |
@@ -36,6 +40,7 @@ date = 2024-02-19T22:40:02+08:00
 | `wget` | web downloader |
 | `git` | source control |
 | `tmux` | terminal mux |
+| `more` | file perusal filter for crt viewing |
 
 ## usually used in scripts
 
