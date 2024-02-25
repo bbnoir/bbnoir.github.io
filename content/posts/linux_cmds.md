@@ -8,8 +8,6 @@ date = 2024-02-19T22:40:02+08:00
 
 use `man` to get more information about the command
 
-```bash
-
 ## usually used in cli
 
 | Commands | Intro |
@@ -41,6 +39,7 @@ use `man` to get more information about the command
 | `git` | source control |
 | `tmux` | terminal mux |
 | `more` | file perusal filter for crt viewing |
+| `less` | opposite of more |
 
 ## usually used in scripts
 
